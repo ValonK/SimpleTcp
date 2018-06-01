@@ -1,2 +1,2 @@
 # SimpleTcp
-SimpleTcp (.Net Standart)
+SimpleTcp https://github.com/BrandonPotter/SimpleTCP ported to .Net Standart
