@@ -1,2 +1,2 @@
 # SimpleTcp
-SimpleTcp Fork (.Net Standart)
+SimpleTcp (.Net Standart)
